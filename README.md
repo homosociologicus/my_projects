@@ -1,6 +1,6 @@
 # Short scripts of my own
 
-- /covid : function, which loads Our World in Data covid dataset and plots the main rates for a given country or the whole world
+- ./covid : function, which loads Our World in Data covid dataset and plots the main rates for a given country or the whole world
   - total deaths
   - new deaths
   - total cases
